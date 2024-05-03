@@ -1,0 +1,15 @@
+{
+    "name": "kyawkyawhtet/urlformatter",
+    "autoload": {
+        "psr-4": {
+            "Kyawkyawhtet\\Urlformatter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kyaw Kyaw Htet",
+            "email": "kyawhtet7675@gmail.com"
+        }
+    ],
+    "require": {}
+}
