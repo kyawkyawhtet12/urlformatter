@@ -1,6 +1,7 @@
 {
     "name": "kyawkyawhtet/urlformatter",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Kyawkyawhtet\\Urlformatter\\": "src/"
